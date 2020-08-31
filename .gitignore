@@ -1,5 +1,5 @@
 .gitconfig.local
-.vimrc.local
+# .vimrc.local
 .zshrc.local
 Brewfile.lock.json
 local/*

@@ -19,6 +19,7 @@ tap "universal-ctags/universal-ctags"
 brew "openssl"
 brew "openssl@1.1" # wget dependency
 
+brew "mega"
 brew "advancecomp"
 brew "ansible"
 brew "asciidoctor"

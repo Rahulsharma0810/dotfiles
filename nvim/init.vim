@@ -102,7 +102,7 @@ set title
 set tags=./tags;
 
 " Vertical line at 80 characters
-set textwidth=80
+" set textwidth=80
 set colorcolumn=+1
 
 " Start diff mode with vertical splits
